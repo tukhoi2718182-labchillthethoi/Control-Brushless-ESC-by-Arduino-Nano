@@ -28,6 +28,6 @@ Use potentionmeter to control speed for brushless DC motor.
 
 # Author
 
-**Name: Tú Khôi
-**Email: tukhoi314156@gmail.com
+Name: Tú Khôi
+Email: tukhoi314156@gmail.com
 
